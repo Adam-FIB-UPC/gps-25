@@ -1,3 +1,5 @@
+# pylint: enable=missing-docstring
+
 import unittest
 import transform
 
